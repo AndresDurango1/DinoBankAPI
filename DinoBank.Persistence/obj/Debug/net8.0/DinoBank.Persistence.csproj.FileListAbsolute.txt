@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\bin\Debug\net8.0\DinoBank.Persistence.deps.json
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\bin\Debug\net8.0\DinoBank.Persistence.dll
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\bin\Debug\net8.0\DinoBank.Persistence.pdb
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\bin\Debug\net8.0\DinoBank.Domain.dll
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\bin\Debug\net8.0\DinoBank.Domain.pdb
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.Persistence.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.Persistence.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.Persistence.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.EF6071F7.Up2Date
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.Persistence.dll
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\refint\DinoBank.Persistence.dll
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\DinoBank.Persistence.pdb
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Persistence\obj\Debug\net8.0\ref\DinoBank.Persistence.dll

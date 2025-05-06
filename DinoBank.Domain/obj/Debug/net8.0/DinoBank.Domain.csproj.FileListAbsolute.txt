@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\bin\Debug\net8.0\DinoBank.Domain.deps.json
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\bin\Debug\net8.0\DinoBank.Domain.dll
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\bin\Debug\net8.0\DinoBank.Domain.pdb
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\DinoBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\DinoBank.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\DinoBank.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\DinoBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\DinoBank.Domain.dll
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\refint\DinoBank.Domain.dll
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\DinoBank.Domain.pdb
+C:\Users\Usuario\Desktop\Proyectos\csharp\DinoBank\DinoBank.Domain\obj\Debug\net8.0\ref\DinoBank.Domain.dll
